@@ -1,0 +1,3 @@
+zmienna=9.999999999999
+print(int(zmienna))
+print(float(zmienna))
